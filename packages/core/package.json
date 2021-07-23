@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@wayne-cli-dev/utils": "^1.0.2"
-  }
+  },
+  "gitHead": "dfc46ed6fdd3bf3f373bdb92943553dce6f9311c"
 }
