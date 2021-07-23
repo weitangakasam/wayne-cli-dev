@@ -1,6 +1,6 @@
 {
   "name": "@wayne-cli-dev/core",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "wei.tang8 <wei.tang8@amh-group.com>",
   "homepage": "",
@@ -17,14 +17,14 @@
     "lib"
   ],
   "publishConfig": {
-    "access":"public",
+    "access": "public",
     "registry": "http://registry.npmjs.org"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@wayne-cli-dev/utils": "^1.0.5"
+    "@wayne-cli-dev/utils": "^1.0.6"
   },
   "gitHead": "ac153febaee5900374f9fe1fc854f2058f7a398b"
 }
