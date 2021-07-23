@@ -1,6 +1,6 @@
 {
   "name": "@wayne-cli-dev/core",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "> TODO: description",
   "author": "wei.tang8 <wei.tang8@amh-group.com>",
   "homepage": "",
@@ -23,7 +23,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "@wayne-cli-dev/utils": "^1.0.2"
+    "@wayne-cli-dev/utils": "^1.0.4"
   },
   "gitHead": "dfc46ed6fdd3bf3f373bdb92943553dce6f9311c"
 }
